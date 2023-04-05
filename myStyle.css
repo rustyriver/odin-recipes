@@ -1,4 +1,10 @@
 ul{
+    font-family: "DejaVu Sans", sans-serif;
+    font-weight:900;
     font-size:xx-large;
     color:cadetblue;
+    text-align: center;
+}
+h1,h2{
+    text-align:center;
 }
